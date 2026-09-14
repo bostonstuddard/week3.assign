@@ -1,0 +1,55 @@
+WEEK 3 ASSIGNMENT SCAFFOLD
+
+Suggested fictional college:
+River Valley College
+
+Required pages:
+- home.html
+- about.html
+- admissions.html
+- academics.html
+
+Required folders:
+- css/
+- images/
+
+Suggested page content:
+
+HOME
+- College name and welcome heading
+- Short introduction
+- Campus image
+- 3 highlights (programs, student life, affordability)
+- Navigation to all pages
+
+ABOUT
+- College history
+- Mission
+- Campus/community description
+
+ADMISSIONS
+- Admissions overview
+- Application steps
+- Example admission requirements
+- Financial aid / tuition information
+
+ACADEMICS
+- Programs or majors
+- Short descriptions of several programs
+- Academic support information
+
+DESIGN CHECKLIST
+- Same navigation on every page
+- Same fonts and colors on every page
+- External CSS only
+- Responsive on phone, tablet, desktop
+- Semantic HTML
+- Readable font sizes and spacing
+- Optimized images
+- No Bootstrap, Tailwind, JavaScript, or other frameworks/libraries
+
+IMPORTANT
+Your instructor's README states that AI may be used to brainstorm content, but AI-generated HTML/CSS code is not allowed. The HTML and CSS should be written by you.
+
+Suggested next step:
+Write the shared header/navigation and link style.css from each page, then build one page at a time.
