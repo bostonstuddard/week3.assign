@@ -3,8 +3,6 @@
 ### Overview
 In this assignment, you will design and develop a **responsive static website** for a fictional small college. The website should look professional, follow web design best practices, and function and display properly across the different device screen sizes (mobile, tablet, and desktop). You can resize the browser to check the responsiveness. The site will be built using **HTML and CSS only**—no other frameworks (such as Bootstrap, Tailwind, or JavaScript) are allowed.  The images and style sheets should be stored in their respective directories.  The project MUST have external CSS style sheets.  
 
-Students may use **generative AI tools** to help brainstorm creative content for the fictitious college (such as descriptions of programs, faculty bios, or campus life details), but **AI tools cannot be used to generate code**. All HTML and CSS must be written by the student.  
-
 ### Requirements
 - A **main homepage** introducing the fictional college.  
 - **Three additional pages** commonly found on college websites, such as:  
