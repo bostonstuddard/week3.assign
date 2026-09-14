@@ -48,8 +48,5 @@ DESIGN CHECKLIST
 - Optimized images
 - No Bootstrap, Tailwind, JavaScript, or other frameworks/libraries
 
-IMPORTANT
-Your instructor's README states that AI may be used to brainstorm content, but AI-generated HTML/CSS code is not allowed. The HTML and CSS should be written by you.
-
 Suggested next step:
 Write the shared header/navigation and link style.css from each page, then build one page at a time.
